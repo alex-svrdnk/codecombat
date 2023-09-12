@@ -314,10 +314,10 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     for_educators: "Dla nauczycieli"
     for_parents: "Dla rodziców"
     for_everyone: "Dla wszystkich"
-#    for_students: "For Students"
+    for_students: "Dla studentów"
 #    for_individuals: "For Individuals"
 #    for_libraries: "For Libraries"
-#    for_partners: "For Partners"
+    for_partners: "Dla partnerów"
 #    for_partners_title: "Partner With CodeCombat"
 #    for_partners_blurb: "Join our mission to make coding accessible and engaging for all by becoming a valued partner with CodeCombat. Our partnership structures include educational businesses, esports sponsors, international distributors, and social impact partners. Partners receive access to our easy-to-use programs, implementation resources, and training options for a successful and enjoyable experience."
 #    for_partners_button: "Explore Partnerships"
@@ -465,7 +465,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     recommended_systems: "Jakie są zalecane przeglądarka i system operacyjny?"
     recommended_systems_blurb: "CodeCombat i Ozaria działają najlepiej na komputerach z co najmniej 4GB pamięci RAM, na nowoczesnej przeglądarce, takiej jak Chrome, Safari, Firefox lub Edge. Chromebooki z 2GB RAM mogą mieć drobne problemy z grafiką w późniejszych kursach. Wymagane jest minimum 200 Kbps przepustowości na studenta, choć zalecane jest 1+ Mbps."
     other_questions: "Jeśli masz jakiekolwiek inne pytania, prosimy o __kontakt__."
-#    see_faq_prefix: "See more"
+    see_faq_prefix: "Zobacz więcej"
 #    see_faq_link: "frequently asked questions in our help center"
 #    see_faq_suffix: "."
 
@@ -497,7 +497,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     confirm: "Potwierdź"
     owned: "Posiadane" # For items you own
     locked: "Zablokowane"
-#    locked_by_teacher: "Locked By Teacher"
+    locked_by_teacher: "Zablokowane przez nauczyciela"
     available: "Dostępny"
     skills_granted: "Zdobyte umiejętności" # Property documentation details
     heroes: "Bohaterowie" # Tooltip on hero shop button from /play
